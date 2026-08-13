@@ -1,5 +1,7 @@
 ---
 layout: home
 ---
-Welcome to mrvlabs: a space for research applied to innovation.  
+
+Applied Innovation
+  
 Email: (mrvlabs@vekiar.com)[mailto:mrvlabs@vekiar.com].  

@@ -2,10 +2,10 @@ title: mrvlabs
 baseurl: "/"
 url: "https://mrvlabs.github.io"
 author:
-  name: "mrv"
+  name: "mrvlabs"
   email: "mrvresearchlabs@gmail.com"
 description: >
-  MRV Applied Research
+  mrvlabs || Applied Research
 remote_theme: jekyll/minima
 header-pages:
   - about.md

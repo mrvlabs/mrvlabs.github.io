@@ -1,9 +1,9 @@
 ---
-layout: default
+layout: base
 title: "projects"
 ---
 
-### Current projects:  
+### Projects
 <ul>
   {% for project in site.projects %}
     <li>

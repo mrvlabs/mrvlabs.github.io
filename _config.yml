@@ -9,6 +9,7 @@ description: >
 remote_theme: jekyll/minima
 header-pages:
   - about.md
+  - griffin.md
 minima:
   social_links:
     - { platoform: github, user_url: "https://github.com/mrvlabs" }

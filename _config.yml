@@ -9,6 +9,10 @@ remote_theme: jekyll/minima
 header-pages:
   - about.md
   - projects.md
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
 minima:
   social_links:
     - { platoform: github, user_url: "https://github.com/mrvlabs" }

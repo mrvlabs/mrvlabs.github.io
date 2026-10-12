@@ -1,6 +1,6 @@
 ---
+layout: page
 title: "griffin"
-layout: base
 ---
 
 For a given standard board, with any given combination of pieces, and any given positions, calculate:

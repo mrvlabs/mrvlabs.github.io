@@ -4,7 +4,7 @@ title: "projects"
 ---
 
 ### Current projects:  
-- [Griffin](./projects/griffin.md): a tiny chess solver via computational decision optimisation
+- [Griffin](./_projects/griffin.md): a tiny chess solver via computational decision optimisation
 - Aegis: secure, formally verifiable execution environments
 - Goblins: distributed agent search by objective 
 - WOPR: weekly operational plan review
@@ -21,7 +21,7 @@ title: "projects"
 <ul>
   {% for project in site.projects %}
     <li>
-      <a href="{{ project.url | relative_url }}">{{ project.title }}</a>
+      <a href="{{ project.url | relative_url }}">{{ project.title }}: {{ project.description }}</a>
     </li>
   {% endfor %}
 </ul>

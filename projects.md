@@ -3,7 +3,6 @@ layout: base
 title: "projects"
 ---
 
-### Projects
 <ul>
   {% for project in site.projects %}
     <li>

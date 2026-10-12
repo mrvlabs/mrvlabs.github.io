@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: page
 title: "Cryptopher"
 description: "a software hsm proof-of-concept"
 github: "https://github.com/mrvlabs/cryptopher"

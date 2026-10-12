@@ -7,8 +7,8 @@ description: >
   mrvlabs -  Applied Research
 remote_theme: jekyll/minima
 header-pages:
-  - about.md
   - projects.md
+  - about.md
 collections:
   projects:
     output: true

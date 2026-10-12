@@ -1,3 +1,8 @@
+---
+title: "Griffin"
+layout: base
+---
+
 For a given standard board, with any given combination of pieces, and any given positions, calculate:
 - The squares controlled exclusively by the black pieces;
 - The squares controlled exclusively by the white pieces;

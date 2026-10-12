@@ -1,5 +1,6 @@
 ---
-layout: base 
+layout: default
+title: "projects"
 ---
 
 ### Current projects:  

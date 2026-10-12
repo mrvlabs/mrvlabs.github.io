@@ -5,7 +5,7 @@ author:
   name: "mrvlabs"
   email: "mrvresearchlabs@gmail.com"
 description: >
-  mrvlabs || Applied Research
+  mrvlabs -  Applied Research
 remote_theme: jekyll/minima
 header-pages:
   - about.md

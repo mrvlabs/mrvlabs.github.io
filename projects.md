@@ -4,7 +4,7 @@ title: "projects"
 ---
 
 Current projects:  
-- Griffin: a tiny chess solver via computational decision optimisation
+- [Griffin](./projects/griffin.md): a tiny chess solver via computational decision optimisation
 - Aegis: secure, formally verifiable execution environments
 - Goblins: distributed agent search by objective 
 - WOPR: weekly operational plan review
@@ -15,5 +15,4 @@ Current projects:
 - Firepods: another <thing>
 - Parker: a literal parking lot
 - Cryptopher: a software hsm-thing
-
 

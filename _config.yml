@@ -2,14 +2,13 @@ title: mrvlabs
 baseurl: "/"
 url: "https://mrvlabs.github.io"
 author:
-  name: "mrvlabs"
   email: "mrvresearchlabs@gmail.com"
 description: >
   mrvlabs -  Applied Research
 remote_theme: jekyll/minima
 header-pages:
   - about.md
-  - griffin.md
+  - projects.md
 minima:
   social_links:
     - { platoform: github, user_url: "https://github.com/mrvlabs" }

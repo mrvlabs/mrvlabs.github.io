@@ -1,5 +1,5 @@
 ---
-title: "Griffin"
+title: "griffin"
 layout: base
 ---
 

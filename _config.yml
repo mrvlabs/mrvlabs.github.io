@@ -9,6 +9,7 @@ remote_theme: jekyll/minima
 header-pages:
   - projects.md
   - about.md
+  - ai-policy.md
 collections:
   projects:
     output: true

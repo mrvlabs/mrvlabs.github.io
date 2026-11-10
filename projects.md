@@ -1,6 +1,7 @@
 ---
 layout: base
 title: "projects"
+order: 2
 ---
 
 <ul>

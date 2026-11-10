@@ -1,6 +1,6 @@
 ---
 layout: base
-title: "AI Use Policy"
+title: "ai use policy"
 order: 3
 ---
 

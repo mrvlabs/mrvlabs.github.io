@@ -6,14 +6,18 @@ author:
 description: >
   mrvlabs -  Applied Research
 remote_theme: jekyll/minima
-header-pages:
-  - about.md
-  - projects.md
-  - ai-policy.md
+#header-pages:
+#  - about.md
+#  - projects.md
+#  - ai-policy.md
 collections:
   projects:
     output: true
     permalink: /projects/:path/
 minima:
+  nav_pages:
+    - about.md
+    - projects.md
+    - ai-policy.md
   social_links:
     - { platoform: github, user_url: "https://github.com/mrvlabs" }

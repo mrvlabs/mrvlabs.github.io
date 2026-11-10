@@ -7,8 +7,8 @@ description: >
   mrvlabs -  Applied Research
 remote_theme: jekyll/minima
 header-pages:
-  - projects.md
   - about.md
+  - projects.md
   - ai-policy.md
 collections:
   projects:
